@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "리뷰러브"
+title                    : "나우샵"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Shop Now"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "나우샵은 최신 트렌드에 맞춰 다양한 제품을 리뷰하는 사이트 입니다."
   location         : "Somewhere"
   email            :
   links:
