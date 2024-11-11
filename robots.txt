@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 #DaumWebMasterTool:03a50e525d1a33b3f902e49236df5de8330d43935dc17676016660e4caed7292:fUNeQW61MTWglmzHU3UeSQ==
 
-Sitemap: https://shopnow.r-e.kr/sitemap.xml
+Sitemap: https://hanjungea.github.io/sitemap.xml
